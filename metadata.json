@@ -1,0 +1,6 @@
+{
+  "name": "Wordscapes English & Shona",
+  "description": "An interactive, beautiful Wordscapes word-connect game centered on discovering English and Shona vocabulary with built-in dictionary meanings, customized themed levels, synthesized Web Audio sound, and tactile hint aids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
